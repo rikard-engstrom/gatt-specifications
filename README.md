@@ -13,3 +13,8 @@ https://btprodspecificationrefs.blob.core.windows.net/assigned-values/16-bit%20U
 
 # GATT Services
 [Gatt Services](https://github.com/rikard-engstrom/gatt-specifications/wiki/Services)
+
+# GATT Specification Supplement
+This document [GATT Specification Supplement PDF](https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=502132&vId=542989)
+Is actually what I was looking for. I don't where you are expected to find this link. I found it in a post on stackoverflow.
+The document contains data fields for characteristics.
